@@ -1,4 +1,4 @@
-# random
+# Random Grup Builder
 
 Ini project php pertama ku, membuat aplikasi pengacak nama untuk membuat kelompok secara adil.
 
